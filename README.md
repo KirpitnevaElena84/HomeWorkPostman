@@ -1,0 +1,1 @@
+[![CI](https://github.com/KirpitnevaElena84/HomeWorkPostman/actions/workflows/ci.yml/badge.svg)](https://github.com/KirpitnevaElena84/HomeWorkPostman/actions/workflows/ci.yml)
